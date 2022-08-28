@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\bin\Debug\net6.0\InsertionSortInArray.exe
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\bin\Debug\net6.0\InsertionSortInArray.deps.json
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\bin\Debug\net6.0\InsertionSortInArray.runtimeconfig.json
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\bin\Debug\net6.0\InsertionSortInArray.dll
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\bin\Debug\net6.0\ref\InsertionSortInArray.dll
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\bin\Debug\net6.0\InsertionSortInArray.pdb
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.AssemblyInfo.cs
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.dll
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\ref\InsertionSortInArray.dll
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.pdb
+D:\kia prjc\tamrin\InsertionSortInArray\InsertionSortInArray\obj\Debug\net6.0\InsertionSortInArray.genruntimeconfig.cache
